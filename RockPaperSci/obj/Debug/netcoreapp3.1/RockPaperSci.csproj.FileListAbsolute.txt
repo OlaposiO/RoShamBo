@@ -1,0 +1,11 @@
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\bin\Debug\netcoreapp3.1\RockPaperSci.exe
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\bin\Debug\netcoreapp3.1\RockPaperSci.deps.json
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\bin\Debug\netcoreapp3.1\RockPaperSci.runtimeconfig.json
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\bin\Debug\netcoreapp3.1\RockPaperSci.runtimeconfig.dev.json
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\bin\Debug\netcoreapp3.1\RockPaperSci.dll
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\bin\Debug\netcoreapp3.1\RockPaperSci.pdb
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\obj\Debug\netcoreapp3.1\RockPaperSci.csprojAssemblyReference.cache
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\obj\Debug\netcoreapp3.1\RockPaperSci.AssemblyInfoInputs.cache
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\obj\Debug\netcoreapp3.1\RockPaperSci.AssemblyInfo.cs
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\obj\Debug\netcoreapp3.1\RockPaperSci.dll
+C:\Users\oomishope\source\repos\RockPaperSci\RockPaperSci\obj\Debug\netcoreapp3.1\RockPaperSci.pdb
